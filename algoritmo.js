@@ -10,5 +10,5 @@ document.querySelector("body").innerHTML = `
     <h4> upss!!! me salió muy grande...</h4>
     <h4>VA MAS CHICO EL CHOCOLATE</h4>
     <img width="150" height="200" src="https://http2.mlstatic.com/D_NQ_NP_2X_991408-MLA49037315188_022022-F.webp"
-        alt="otro chocolate más chico"
+        alt="otro chocolate más chico">
 `
